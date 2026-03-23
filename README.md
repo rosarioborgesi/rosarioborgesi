@@ -24,7 +24,7 @@ Hands-on experience through real-world challenges, smart contract development, a
 
 - ⚒ **[Speedrun Ethereum](https://speedrunethereum.com/builders/0xce626A7dF0e36281e410Faa1808685BB17779741)** – Built full-stack dApps using Solidity and Hardhat  
 
-- 🛡 **[Ethernaut (OpenZeppelin CTF)](https://ethernaut.openzeppelin.com/level/0x3c34A342b2aF5e885FcaA3800dB5B205fEfa3ffB)** – Solved smart contract security challenges  
+- 🛡 **[Ethernaut (OpenZeppelin CTF)](https://github.com/rosarioborgesi/ethernaut-challenges)** – Solved smart contract security challenges  
 
  ---
 
