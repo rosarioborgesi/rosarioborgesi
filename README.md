@@ -54,7 +54,7 @@ Hands-on experience through real-world challenges, smart contract development, a
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://x.com/rosarioborgesi">
     <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
