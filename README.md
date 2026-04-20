@@ -35,7 +35,8 @@
 ## 🛠 Projects
 
 - ⚖️ **1Balancer**  
-  Auto-rebalancing portfolio protocol built on Ethereum designed to maintain a 50/50 allocation between USDC and WETH. Expanded after the hackathon by implementing portfolio rebalancing logic directly in smart contracts and integrating Uniswap V2 pools for onchain token swaps.
+  Auto-rebalancing portfolio protocol built on Ethereum designed to maintain a 50/50 allocation between USDC and WETH.  
+  Expanded after the hackathon by implementing portfolio rebalancing logic directly in smart contracts and integrating Uniswap V2 pools for onchain token swaps.
 
   🔗 [GitHub](https://github.com/rosarioborgesi/1balancer-contract)
 
