@@ -18,38 +18,66 @@
 
 ## 🧠 Learning & Proof of Work
 
-Hands-on experience through real-world challenges, smart contract development, and security exercises:
+- 🎓 **Cyfrin Updraft**  
+  Advanced Solidity and Foundry training covering smart contract development, testing, security, gas optimization, and EVM internals.  
+  🔗 [Profile](https://profiles.cyfrin.io/u/rosarioborgesi)
 
-- 🎓 **[Cyfrin Updraft](https://profiles.cyfrin.io/u/rosarioborgesi)** – Advanced Solidity & Foundry training  
+- ⚒️ **Speedrun Ethereum**  
+  Built full-stack Ethereum applications through hands-on challenges covering DEXs, lending, stablecoins, prediction markets, and ZK voting.  
+  🔗 [Builder Profile](https://speedrunethereum.com/builders/0xce626A7dF0e36281e410Faa1808685BB17779741)
 
-- ⚒ **[Speedrun Ethereum](https://speedrunethereum.com/builders/0xce626A7dF0e36281e410Faa1808685BB17779741)** – Built full-stack dApps using Solidity and Hardhat  
-
-- 🛡 **[Ethernaut (OpenZeppelin CTF)](https://github.com/rosarioborgesi/ethernaut-challenges)** – Solved smart contract security challenges  
+- 🛡️ **OpenZeppelin Ethernaut**  
+  Solved smart contract security challenges involving reentrancy, delegatecall, storage collisions, upgradeable proxies, and low-level EVM exploits.  
+  🔗 [GitHub](https://github.com/rosarioborgesi/ethernaut-challenges)
 
  ---
 
 ## 🛠 Projects
 
-- ⚖️ **[1Balancer](https://github.com/rosarioborgesi/1balancer-contract)** – Auto-rebalancing WETH/USDC portfolio  
+- ⚖️ **1Balancer**  
+  Auto-rebalancing portfolio protocol built on Ethereum designed to maintain a 50/50 allocation between USDC and WETH. Expanded after the hackathon by implementing portfolio rebalancing logic directly in smart contracts and integrating Uniswap V2 pools for onchain token swaps.
 
-- 🤝 **[Crew](https://www.youtube.com/watch?v=seFlrilQlsY&t=1s)** – Collaboration protocol for creators  
-
-- 🤖 **[Auracoin](https://www.youtube.com/watch?v=2wsWVNRtdg8)** – Farcaster AI agent that mints Zora coins with AI-generated images  
-
-- 🏷 **[Proofifi](https://www.youtube.com/watch?v=-lPHbA9CEeY)** – App for creating onchain labels for real-world items  
+  🔗 [GitHub](https://github.com/rosarioborgesi/1balancer-contract)
 
 
-## 🏆 Hackathons
+- 🤖 **Auracoin**  
+  Farcaster AI agent capable of generating AI images and autonomously minting Zora coins.
 
-- 🥇 **[ETH Rome 2025](https://taikai.network/ethrome/hackathons/2025/projects/cmgwhrghm013d1nb9152mydj6/idea)** – ENS, 1inch & Base bounty winner  
+  🔗 [GitHub](https://github.com/rosarioborgesi/auracoin) | 🎥 [Demo](https://www.youtube.com/watch?v=2wsWVNRtdg8)
 
-- 🥇 **[Base Batch APAC 2025](https://devfolio.co/projects/crew-b10b)** – Mini App bounty winner  
+- 🏷️ **Proofifi**  
+  Application for tokenizing second-hand physical items as NFTs, enabling verifiable ownership and digital provenance.  
+  Expanded after hackathon launch with stronger smart contract access control and additional features.  
+  🔗 [GitHub](https://github.com/rosarioborgesi/proofifi_public) | 🎥 [Demo](https://www.youtube.com/watch?v=-lPHbA9CEeY)
 
-- 🥇 **[ETH Prague 2025](https://ethglobal.com/showcase/mivio-6ukub)** – Yellow bounty winner  
+---
 
-- 🥇 **[Winter is Coming 2024](https://github.com/RosarioB/xmtp-brian-bot)** – XMTP bounty winner  
+## 🏆 Hackathons & Awards
 
-- 🥇 **[ETH Rome 2024](https://taikai.network/ethrome/hackathons/ethrome-24/projects/cm1v0jvue03i3148we91ifyi2/idea)** – ENS bounty winner  
+- 🥇 **ETH Rome 2025** — Built **1Balancer**  
+  Portfolio management mini-app that automatically rebalances WETH and USDC to maintain a 50/50 allocation.  
+  Won **ENS**, **1inch**, and **Base** bounties.  
+  🔗 [Project Page](https://taikai.network/ethrome/hackathons/2025/projects/cmgwhrghm013d1nb9152mydj6/idea)
+
+- 🥇 **Base Batch APAC 2025** — Built **Crew**  
+  Creator collaboration protocol with revenue sharing for Zora coins.  
+  Won the **Mini App bounty** and joined the **Incubase incubator by Coinbase**.  
+  🔗 [Project Page](https://devfolio.co/projects/crew-b10b)
+
+- 🥇 **ETH Prague 2025** — Built **Mivio**  
+  Festival payment application enabling transactions without internet access using Yellow state channels.  
+  Won the **Yellow bounty**.  
+  🔗 [Project Page](https://ethglobal.com/showcase/mivio-6ukub)
+
+- 🥇 **Winter is Coming 2024** — Built **XiFi**  
+  XMTP bot enabling users to send funds, swap WETH to USDC, and transfer assets through chat commands.  
+  Won the **XMTP bounty**.  
+  🔗 [GitHub](https://github.com/rosarioborgesi/xmtp-brian-bot)
+
+- 🥇 **ETH Rome 2024** — Built **Proofifi**  
+  NFT-based ownership and provenance platform for second-hand physical goods.  
+  Won the **ENS bounty**.  
+  🔗 [Project Page](https://taikai.network/ethrome/hackathons/ethrome-24/projects/cm1v0jvue03i3148we91ifyi2/idea)
 
 ---
 
