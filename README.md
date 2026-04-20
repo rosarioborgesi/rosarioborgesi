@@ -36,14 +36,12 @@
 
 - ⚖️ **1Balancer**  
   Auto-rebalancing portfolio protocol built on Ethereum designed to maintain a 50/50 allocation between USDC and WETH.  
-  Expanded after the hackathon by implementing portfolio rebalancing logic directly in smart contracts and integrating Uniswap V2 pools for onchain token swaps.
-
+  Expanded after the hackathon by implementing portfolio rebalancing logic directly in smart contracts and integrating Uniswap V2 pools for onchain token swaps.  
   🔗 [GitHub](https://github.com/rosarioborgesi/1balancer-contract)
 
 
 - 🤖 **Auracoin**  
-  Farcaster AI agent capable of generating AI images and autonomously minting Zora coins.
-
+  Farcaster AI agent capable of generating AI images and autonomously minting Zora coins.  
   🔗 [GitHub](https://github.com/rosarioborgesi/auracoin) | 🎥 [Demo](https://www.youtube.com/watch?v=2wsWVNRtdg8)
 
 - 🏷️ **Proofifi**  
