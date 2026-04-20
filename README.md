@@ -61,7 +61,7 @@
   🔗 [Project Page](https://taikai.network/ethrome/hackathons/2025/projects/cmgwhrghm013d1nb9152mydj6/idea)
 
 - 🥇 **Base Batch APAC 2025** — Built **Crew**  
-  Creator collaboration protocol with revenue sharing for Zora coins.  
+  Creator collaboration protocol enabling Zora coin revenue sharing through Splits contracts.  
   Won the **Mini App bounty** and joined the **Incubase incubator by Coinbase**.  
   🔗 [Project Page](https://devfolio.co/projects/crew-b10b)
 
