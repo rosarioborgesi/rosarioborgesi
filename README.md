@@ -18,6 +18,11 @@
 
 ## 🧠 Learning & Proof of Work
 
+- 🦄 **Uniswap V1 From Scratch**  
+  Rebuilt the core mechanics of Uniswap V1 in Solidity using Foundry, including ETH/token swaps, liquidity providing, LP tokens, and AMM pricing logic.  
+  Added unit, integration, fuzz, and invariant tests to validate the protocol behavior and edge cases.  
+  🔗 [GitHub](https://github.com/rosarioborgesi/uniswap-v1-from-scratch) | 🎥 [Walkthrough](https://youtu.be/eppikoMpB4A)
+
 - 🎓 **Cyfrin Updraft**  
   Advanced Solidity and Foundry training covering smart contract development, testing, security, gas optimization, and EVM internals.  
   🔗 [Profile](https://profiles.cyfrin.io/u/rosarioborgesi)
