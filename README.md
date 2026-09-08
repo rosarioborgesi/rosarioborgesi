@@ -4,7 +4,7 @@
 - Solidity Smart Contract Developer
 - Building DeFi and Web3 projects
 - 10 years of experience as software engineer previously Web developer and Data engineer
-- Sharing my learning on YouTube, X and Linkedin
+- Sharing my learning on [YouTube](https://youtube.com/@rosarioborgesi), [X](https://x.com/rosarioborgesi) and [Linkedin](https://www.linkedin.com/in/rosarioborgesi)
 
 ---
 
@@ -18,13 +18,17 @@
 
 ## 🧠 Learning & Proof of Work
 
+- 👻 **Aaave V1 from Scratch**  
+  Rebuilt the Aave V1 protocol using Solidity 0.8.30 and Foundry, with unit and integration tests to develop an in-depth understanding of its inner workings.
+  🔗 [GitHub](https://github.com/rosarioborgesi/aave-v1-from-scratch.git) | 🎥 [Video Walkthrough - Part 1](https://youtu.be/k8TRY5lcs8Q?si=LjjT_wlBzUSEuYvN) | 🎥 [Video Walkthrough - Part 2](https://youtu.be/aq2cMmibayI?si=AkKetkRGqJ-anapD)
+
 - 🦄 **Uniswap V1 From Scratch**  
-  Rebuilt the core mechanics of Uniswap V1 in Solidity using Foundry, including ETH/token swaps, liquidity providing, LP tokens, and AMM pricing logic.  
-  Added unit, integration, fuzz, and invariant tests to validate the protocol behavior and edge cases.  
-  🔗 [GitHub](https://github.com/rosarioborgesi/uniswap-v1-from-scratch) | 🎥 [Walkthrough](https://youtu.be/eppikoMpB4A)
+  Rebuilt the protocol Uniswap V1 using Solidity 0.8.30 and Foundry.  
+  Added unit, integration, fuzz, and invariant tests.  
+  🔗 [GitHub](https://github.com/rosarioborgesi/uniswap-v1-from-scratch) | 🎥 [Video Walkthrough](https://youtu.be/eppikoMpB4A)
 
 - 🎓 **Cyfrin Updraft**  
-  Advanced Solidity and Foundry training covering smart contract development, testing, security, gas optimization, and EVM internals.  
+  Completed the Foundry Fundamentals, Advanced Foundry, and Web3 Wallet Security courses.
   🔗 [Profile](https://profiles.cyfrin.io/u/rosarioborgesi)
 
 - ⚒️ **Speedrun Ethereum**  
@@ -32,7 +36,7 @@
   🔗 [Builder Profile](https://speedrunethereum.com/builders/0xce626A7dF0e36281e410Faa1808685BB17779741)
 
 - 🛡️ **OpenZeppelin Ethernaut**  
-  Solved smart contract security challenges involving reentrancy, delegatecall, storage collisions, upgradeable proxies, and low-level EVM exploits.  
+  Solved 40 of 41 Ethernaut challenges. 
   🔗 [GitHub](https://github.com/rosarioborgesi/ethernaut-challenges)
 
  ---
