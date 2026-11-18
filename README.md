@@ -18,6 +18,10 @@
 
 ## 🧠 Learning & Proof of Work
 
+- 👻 **DAI from Scratch**  
+  Rebuilt the Multi Collateral DAI protocol with Solidity 0.8.35 and Foundry. I wrote unit and integration tests to understand how its core features work, including locking and unlocking collateral, borrowing and repaying DAI, liquidating vaults, and earning interest through the Dai Savings Rate (DSR).    
+  🔗 [GitHub](https://github.com/rosarioborgesi/dai-from-scratch)
+
 - 👻 **Aaave V1 from Scratch**  
   Rebuilt the Aave V1 protocol using Solidity 0.8.30 and Foundry, with unit and integration tests to develop an in-depth understanding of its inner workings.  
   🔗 [GitHub](https://github.com/rosarioborgesi/aave-v1-from-scratch.git) | 🎥 [Video Walkthrough - Part 1](https://youtu.be/k8TRY5lcs8Q?si=LjjT_wlBzUSEuYvN) | 🎥 [Video Walkthrough - Part 2](https://youtu.be/aq2cMmibayI?si=AkKetkRGqJ-anapD)
